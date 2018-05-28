@@ -1,3 +1,7 @@
+NO LONGER WORKING
+Sadly due to a Duolingo update the script is no longer working!
+I am keeping it up here for learning purposes. Feel free to have a look at my code.
+
 # Duopro
 A Javascript user script, that adds some extra functionality to Duolingo.
 
